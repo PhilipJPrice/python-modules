@@ -47,4 +47,4 @@ from ..moduleName import ClassName()
 from ..packageName.moduleName import ClassName()
 ```
 
-### __init__.py Defines Directory as Package
+### `__init__.py` Defines Directory as Package
