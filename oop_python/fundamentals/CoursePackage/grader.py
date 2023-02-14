@@ -34,7 +34,7 @@ class Grader:
         return f"""
         {student}'s attempts at {grader.assignment.__class__.__name__}:
 
-        attemps: {grader.attempts}
+        attempts: {grader.attempts}
         correct: {grader.correct_attempts}
 
         passed: {grader.correct_attempts > 0}
