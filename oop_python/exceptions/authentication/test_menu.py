@@ -1,4 +1,4 @@
-from . import user as auth
+import user as auth
 
 # Set up a test user and permission
 auth.authenticator.add_user("joe", "joepassword")
